@@ -23,7 +23,7 @@ Be sure that **ports UDP/53 and TCP/443 are accessible through the <PUBLIC_IP_AD
 
 This is a sample output for the first run until Evilginx3 starts:
 
-[PENDING INSERT IMAGE]
+![First Evilginx3 run](https://raw.githubusercontent.com/isanval/evilginx-aio/main/media/img/first-run.png)
 
 Once Evilginx3 is started and ready, you can check the phishing URLs with these commands:
 
