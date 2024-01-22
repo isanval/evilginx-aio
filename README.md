@@ -1,6 +1,8 @@
 # Evilginx3 All-In-One script
 
-This script is intended to use in [Kali Linux](https://www.kali.org) (rolling version), it will install [Evilginx3](https://github.com/kgretzky/evilginx2) with some public phishlets automatically.
+This script is intended to use in [Kali Linux](https://www.kali.org) (rolling version), it will install [Evilginx3](https://github.com/kgretzky/evilginx2) with these public phishlets repositories automatically:
+- [BakkerJan](https://github.com/BakkerJan/evilginx2.git)
+- [An0nUD4Y](https://github.com/An0nUD4Y/Evilginx2-Phishlets.git)
 
 The script will set up two phishing sites:
 - MS365
