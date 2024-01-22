@@ -30,7 +30,7 @@ Once Evilginx3 is started and ready, you can check the phishing URLs with these 
     lures
     lures get-url <id>
 
-[PENDING INSERT IMAGE]
+![Get phishing URLs](https://raw.githubusercontent.com/isanval/evilginx-aio/main/media/img/get-urls.png)
 
 After that, you can access the two phishing URLs you got from `lures get-url <id>` commands.
 
