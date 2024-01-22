@@ -10,6 +10,8 @@ The script will set up two phishing sites:
 
 # Quick run
 
+**Install Kali Linux and make it available with some public IP**
+
 **Create 2 DNS entries** pointing the public IP address from the server:
 
     ns-<mysubdomain>.myown.tools.   A     <PUBLIC_IP_ADDRESS>
