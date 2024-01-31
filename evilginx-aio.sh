@@ -53,9 +53,10 @@ phishlets_repo2="https://github.com/An0nUD4Y/Evilginx2-Phishlets.git"
 mkdir "${dest_dir}"
 echo
 echo -n "INSTALLING REQUIRED SYSTEM PKGs..."
-sudo apt -y update &> /dev/null
-sudo apt -y full-upgrade &> /dev/null
-sudo apt -y install make git curl socat &> /dev/null
+sleep 2
+sudo apt -y update
+sudo apt -y full-upgrade
+sudo apt -y install make git curl socat
 echo " OK"
 
 echo
